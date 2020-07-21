@@ -1,1 +1,1 @@
-# custom-wordpress-theme
+# A custom-wordpress-theme developed by me
